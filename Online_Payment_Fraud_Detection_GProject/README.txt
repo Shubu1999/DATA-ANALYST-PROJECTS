@@ -84,5 +84,3 @@ This project simulates a fraud detection workflow using Kaggle’s financial tra
 ## 📢 Conclusion
 This project demonstrates an **end‑to‑end workflow**:  
 Raw data → SQL cleaning → Python modeling → Power BI visualization → Business insights.  
-
-It simulates how banks detect fraud and showcases skills in **SQL, Python, Power BI, and Excel** — making it highly relevant for finance/banking recruiters in Dubai and globally.
